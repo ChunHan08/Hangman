@@ -1,11 +1,11 @@
 const wordList = [
   {
-  word: "symphony",
-  hint: "A long musical composition for a full orchestra, typically in multiple movements."
+    word: "symphony",
+    hint: "A long musical composition for a full orchestra, typically in multiple movements."
   },
   { 
-  word: "adventure",
-  hint: "An exciting or daring experience."
+    word: "adventure",
+    hint: "An exciting or daring experience."
   },
   {
   word: "telephone",
@@ -110,5 +110,5 @@ const wordList = [
   {
   word: "water",
   hint: "Humans can not survive three days without it."
-  },
-]
+  }
+];

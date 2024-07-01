@@ -28,10 +28,7 @@ body {
   user-select: none;
   max-width: 270px;
 }
-.hangman-box img {
-  user-select: none;
-  max-width: 270px;
-}
+
 .hangman-box h1 {
   font-size: 1.45rem;
   text-align: center;
@@ -47,11 +44,11 @@ body {
   align-items: center;
 }
 .word-display .letter {
-  width. 28px;
+  width: 28px;
   font-size: 2rem;
   text-align: center;
   font-weight: 600;
-  margin-bottom 40px;
+  margin-bottom: 40px;
   text-transform: uppercase;
   border-bottom: 3px solid #000;
 }
@@ -63,19 +60,19 @@ body {
   text-align: center;
   font-size: 1.1rem;
   font-weight: 500;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 .game-box h4 b {
   font-weight: 600;
 }
-.game-box .guesses-text b{
-  color: #ff000;
+.game-box .guesses-text b {
+  color: #ff0000;
 }
 .game-box .keyboard {
   display: flex;
   gap: 5px;
   flex-wrap: wrap;
-  margin-top: 40px
+  margin-top: 40px;
   justify-content: center;
 }
 :where(.game-modal, .keyboard) button {
@@ -97,7 +94,7 @@ body {
   pointer-events: none;
   opacity: 0.6;
 }
-:where (.game-modal, .keyboard) button:hover {
+:where(.game-modal, .keyboard) button:hover {
   background: #8286c9;
 }
 /*
@@ -132,7 +129,7 @@ body {
   text-align: center;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
-.game-modal . img {
+.game-modal img {
   max-width: 130px;
   margin-bottom: 20px;
 }
