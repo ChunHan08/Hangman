@@ -89,6 +89,26 @@ const wordList = [
   },
   {
   word: "Chair",
-  hint: "a piece of furniture for sitting."
+  hint: "A piece of furniture for sitting."
+  },
+  {
+  word: "refrigerator",
+  hint: "A place to keep food fresh."
+  },
+  {
+  word: "toilet",
+  hint: "What do you flush?"
+  },
+  {
+  word: "book",
+  hint: "pages that are together."
+  },
+  {
+  word: "computer",
+  hint: "What device most people are on right now."
+  },
+  {
+  word: "water",
+  hint: "Humans can not survive three days without it."
   },
 ]
