@@ -5,7 +5,7 @@ const wordList = [
   },
   { 
   word: "adventure",
-  hint: "An exiting or daring experience."
+  hint: "An exciting or daring experience."
   },
   {
   word: "telephone",
@@ -29,7 +29,7 @@ const wordList = [
   },
   {
   word: "illusion",
-  hint: "A false percepction or belief; a deceptive appearance or impression."
+  hint: "A false perception or belief; a deceptive appearance or impression."
   },
   {
   word: "mysterious",
@@ -37,10 +37,58 @@ const wordList = [
   },
   {
   word: "whisper",
-  hint: "To speak very softly or quietly, often in a secretive manner
-  }
+  hint: "To speak very softly or quietly, often in a secretive manner."
+  },
   {
-    
-  }
-
+  word: "odd",
+  hint: "Not normally expected or expected; not in the usual or normal order."
+  },
+  {
+  word: "beautiful",
+  hint: "aesthetically pleasing and very gorgeous."
+  },
+  {
+  word: "ugly",
+  hint: "not beautiful or pleasing, unattractive"
+  },
+  {
+  word: "dream",
+  hint: "A long, imaginary, and often fantastical thought when sleeping"
+  },
+  {
+  word: "painting",
+  hint: "A picture or drawing made with paint etc."
+  },
+  {
+  word: "Taylor Swift",
+  hint: "biggest pop artist of all time."
+  },
+  {
+  word: "Grammy",
+  hint: "most prestigious award in music."
+  },
+  {
+  word: "bed",
+  hint: "A piece of furniture for sleeping."
+  },
+  {
+  word: "Cellphone",
+  hint: "Kids today spend too much time on these days."
+  },
+  {
+  word: "Piano",
+  hint: "A musical instrument with a keyboard."
+  },
+  {
+  word: "king",
+  hint: "a guy who rules over a large number of people."
+  },
+  {
+  word: "Card",
+  hint: "What people play poker with."
+  },
+  {
+  word: "Chair",
+  hint: "a piece of furniture for sitting."
+  },
 ]
