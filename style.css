@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
 * {
   margin: 0;
@@ -5,6 +6,7 @@
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
 }
+
 body {
   display: flex;
   padding: 0 10px;
@@ -97,7 +99,7 @@ body {
 :where(.game-modal, .keyboard) button:hover {
   background: #8286c9;
 }
-/*
+
 .game-modal {
   position: fixed;
   top: 0;
@@ -114,7 +116,6 @@ body {
   padding: 0 10px;
   transition: opacity 0.4s ease;
 }
-*/
 .game-modal.show {
   opacity: 1;
   pointer-events: auto;
@@ -133,7 +134,7 @@ body {
   max-width: 130px;
   margin-bottom: 20px;
 }
-.game-modal img[ src="images/victory.gif"] {
+.game-modal img[src="images/victory.gif"] {
   margin-left: -10px;
 }
 .game-modal h4 {
@@ -145,4 +146,35 @@ body {
 }
 .game-modal button {
   padding: 12px 23px;
+}
+@media (max-width: 782px) {
+  .container{
+    flex-direction: column;
+    padding: 30px 15px;
+    align-items: center;
+  }
+  .hangman-box img{
+    max-width: 100%;
+  }
+  .hangman-box h1 {
+    display: none;
+  }
+  .game-box h4 {
+    font-size: 1rem;
+  }
+  .word-display .letter.guessed {
+    margin: -35px 0 25pc;
+  }
+  .game-modal img {
+    max-width: 120px;
+  }
+  .game-modal h4 {
+    font-size: 1.1rem;
+  }
+  .game-modal p {
+    font-size: 1.1rem;
+  }
+  .game-modal button {
+    padding: 10px 18px;
+  }
 }
