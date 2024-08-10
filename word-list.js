@@ -1,114 +1,123 @@
 const wordList = [
   {
-    word: "symphony",
-    hint: "A long musical composition for a full orchestra, typically in multiple movements."
-  },
-  { 
-    word: "adventure",
-    hint: "An exciting or daring experience."
-  },
-  {
-  word: "telephone",
-  hint: "A device used to transmit sound over long distances."
-  },
-  {
-  word: "sunset",
-  hint: "The daily disappearance of the sun below the horizon."
-  },
-  {
-  word: "shadow",
-  hint: "A dark area or shape produced by an object blocking the light."
-  },
-  {
-  word: "chocolate",
-  hint: "A sweet treat made from cocoa beans."
-  },
-  {
-  word: "vibrant",
-  hint: "Full of energy, brightnes, and life."
-  },
-  {
-  word: "illusion",
-  hint: "A false perception or belief; a deceptive appearance or impression."
-  },
-  {
-  word: "mysterious",
-  hint: "Difficult or impossible to understand, explain, or identify."
-  },
-  {
-  word: "whisper",
-  hint: "To speak very softly or quietly, often in a secretive manner."
-  },
-  {
-  word: "odd",
-  hint: "Not normally expected or expected; not in the usual or normal order."
-  },
-  {
-  word: "beautiful",
-  hint: "aesthetically pleasing and very gorgeous."
-  },
-  {
-  word: "ugly",
-  hint: "not beautiful or pleasing, unattractive"
-  },
-  {
-  word: "dream",
-  hint: "A long, imaginary, and often fantastical thought when sleeping"
-  },
-  {
-  word: "painting",
-  hint: "A picture or drawing made with paint etc."
-  },
-  {
-  word: "Taylor Swift",
-  hint: "biggest pop artist of all time."
-  },
-  {
-  word: "Grammy",
-  hint: "most prestigious award in music."
-  },
-  {
-  word: "bed",
-  hint: "A piece of furniture for sleeping."
-  },
-  {
-  word: "Cellphone",
-  hint: "Kids today spend too much time on these days."
-  },
-  {
-  word: "Piano",
-  hint: "A musical instrument with a keyboard."
-  },
-  {
-  word: "king",
-  hint: "a guy who rules over a large number of people."
-  },
-  {
-  word: "Card",
-  hint: "What people play poker with."
-  },
-  {
-  word: "Chair",
-  hint: "A piece of furniture for sitting."
-  },
-  {
-  word: "refrigerator",
-  hint: "A place to keep food fresh."
-  },
-  {
-  word: "toilet",
-  hint: "What do you flush?"
-  },
-  {
-  word: "book",
-  hint: "pages that are together."
-  },
-  {
-  word: "computer",
-  hint: "What device most people are on right now."
-  },
-  {
-  word: "water",
-  hint: "Humans can not survive three days without it."
-  }
-];
+    {
+      word: "Invisible",
+      hint: "She don't even know you"
+    },
+    {
+      word: "Fearless",
+      hint: "Run your hairs through your hair"
+    },
+    {
+      word: "Fifteen",
+      hint: "Take a deep breath, go"
+    },
+    {
+      word: "Change",
+      hint: "And well sing hulleigyah"
+    },
+    {
+      word: "Untouchable",
+      hint: "Its like a million little stars spelling out your name"
+    },
+    {
+      word: "Superstar",
+      hint: "You smile that beautiful smile"
+    },
+    {
+      word: "Mine",
+      hint: "I can see it now"
+    },
+    {
+      word: "mean",
+      hint: "Well you can take me down"
+    },
+    {
+      word: "enchanted",
+      hint: "This was the very first page"
+    },
+    {
+      word: "ours",
+      hint: "But this love is "
+    },
+    {
+      word: "Superman",
+      hint: "Go save the world, I'll be around"
+    },
+    {
+      word: "timeless",
+      hint: "So even in a different life"
+    },
+    {
+      word: "red",
+      hint: "Missing him was dark grey, all alone"
+    },
+    {
+      word: "treacherous",
+      hint: "this slope is reckless"
+    },
+    {
+      word: "ronan",
+      hint: "you were my best four years"
+    },
+    {
+      word: "babe",
+      hint: "Im here on the kitchen floor"
+    },
+    {
+      word: "run",
+      hint: "I'll wait for you"
+    },
+    {
+      word: "style",
+      hint: "Takes me home"
+    },
+    {
+      word: "clean",
+      hint: "ten months sober"
+    },
+    {
+      word: "delicate",
+      hint: "I pretend your mine all the damn time"
+    },
+    {
+      word: "Gorgeous",
+      hint: "Unless you wanna come along?"
+    },
+    {
+      word: "dress",
+      hint: "carve you name into my bedpost"
+    },
+    {
+      word: "lover",
+      hint: "Can i go where you go?"
+    },
+    {
+      word: "Afterglow",
+      hint: "Hey, its all me, in my head"
+    },
+    {
+      word: "Me!",
+      hint: "Hey kids spellings fun!"
+    },
+    {
+      word: "daylight",
+      hint: "Back and forth from new york."
+    },
+    {
+      word: "the 1",
+      hint: "For never leaving well enough alone"
+    },
+    {
+      word: "cardigan",
+      hint: "Your heartbeat on the High Line"
+    },
+    {
+      word: "exile",
+      hint: "Those eyes add insult to injury"
+    },
+    {
+      word: "mirrorball",
+      hint: "And when I break it's in a million pieces"
+    },
+  ]
