@@ -196,6 +196,11 @@ const wordList = [
       word: "thislove",
       hint: "You stand with your hand on my waistline"
     },
+  {
+    word: "newromantics",
+    hint: "The best people in life are free",
+  },
+  
     {
       word: "clean",
       hint: "ten months sober"
@@ -204,6 +209,10 @@ const wordList = [
       word: "delicate",
       hint: "I pretend your mine all the damn time"
     },
+  {
+    word: "endgame",
+    hint: "I wanna be your first string"
+  },
     {
       word: "Gorgeous",
       hint: "Unless you wanna come along?"
@@ -212,14 +221,43 @@ const wordList = [
       word: "dress",
       hint: "carve you name into my bedpost"
     },
+  {
+    word: "getawaycar",
+    hint: "Think about the place where you first met me"
+  },
+  
     {
       word: "lover",
       hint: "Can i go where you go?"
     },
+  {
+    word: "cruelsummer",
+    hint: "killing me slow, out the window"
+  },
+  {
+    word: "theman",
+    hint: "And its all good if you're bad"
+  },
+  {
+    word: "thearcher",
+    hint: "'Cause cruelty wins in the movies"
+  },
     {
       word: "Afterglow",
       hint: "Hey, its all me, in my head"
     },
+  {
+    word: "paperrings",
+    hint: "Now I wake up in the night and watch you breathe",
+  },
+  {
+    word: "corneliastreet",
+    hint: "I get drunk, but it's not enough"
+  },
+  {
+    word: "londonboy",
+    hint: "I love my hometown"
+  },
     {
       word: "Me!",
       hint: "Hey kids spellings fun!"
@@ -228,10 +266,7 @@ const wordList = [
       word: "daylight",
       hint: "Back and forth from new york."
     },
-    {
-      word: "the 1",
-      hint: "For never leaving well enough alone"
-    },
+   
     {
       word: "cardigan",
       hint: "Your heartbeat on the High Line"
@@ -240,6 +275,22 @@ const wordList = [
       word: "exile",
       hint: "Those eyes add insult to injury"
     },
+  {
+    word: "illicitaffairs",
+    hint: "Ends with meetinfs in parking lots"
+  },
+  {
+    word: "invisiblestring",
+    hint: "Teal was the color of your shirt when you were 16 at the yogurt shop",
+  },
+  {
+    word: "madwoman",
+    hint: "Now i breathe flames each time I talk",
+  },
+  {
+    word: "thelakes",
+    hint: "I don't belong, and my beloved, neither do you",
+  },
     {
       word: "mirrorball",
       hint: "And when I break it's in a million pieces"
