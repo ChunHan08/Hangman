@@ -284,6 +284,19 @@ const wordList = [
     hint: "Teal was the color of your shirt when you were 16 at the yogurt shop",
   },
   {
+    word: "goldrush",
+    hint: "I see me padding across your wooden floors",
+  },
+  {
+    word: "tolerateit",
+    hint: "Tuesdat night at Olive Garden, at her job, or anywhere",
+  },
+  {
+    word: "coneyisland",
+    hint: "Your opal eyes are all I wish to see",
+  },
+  
+  {
     word: "madwoman",
     hint: "Now i breathe flames each time I talk",
   },
@@ -295,6 +308,50 @@ const wordList = [
       word: "mirrorball",
       hint: "And when I break it's in a million pieces"
     },
+  {
+    word: "lavenderhaze",
+    hint: "Ive neem under scrutiny"
+  },
+  {
+    word: "antihero",
+    hint: "Its me HI"
+  },
+  {
+    word: "midnightrain",
+    hint: "My town was a wasteland"
+  },
+  {
+    word: "vigilanteshit",
+    hint: "draw the cat eye"
+  },
+  {
+    word: "sweetnothing",
+    hint: "This happends all the time"
+  },
+  {
+    word: "highinfidelity",
+    hint: "I didnt know you were keeping track"
+  },
+  {
+    word: "dearreader",
+    hint: "Burn all the files, desrt all your past lives",
+  },
+  {
+    word: "hitsdifferent",
+    hint: "Each bar plays our song"
+  },
+  {
+    word: "downbad",
+    hint: "Show me that this world is bigger than us"
+  },
+  {
+    word: "thealchemy",
+    hint: "The hospital was a drag"
+  },
+  {
+    word: "clarabow",
+    hint: "But i think i mifht die if it happened"
+  }
     {
       word: "peter",
       hint: "My lost fearless leader"
