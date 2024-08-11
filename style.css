@@ -13,14 +13,14 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5E63BA;
+  background-image: linear-gradient(to right top, #1526a9, #39edda);
 }
 .container {
   display: flex;
   width: 850px;
   gap: 70px;
   padding: 60px 40px;
-  background: #fff;
+  background-image: linear-gradient(to left bottom, #c5d1fa, #8073b2);
   border-radius: 10px;
   align-items: flex-end;
   justify-content: space-between;
@@ -86,7 +86,7 @@ body {
   font-weight: 600;
   border-radius: 4px;
   text-transform: uppercase;
-  background: #5E63BA;
+  background: #1526a9;
 }
 .keyboard button {
   padding: 7px;
@@ -97,7 +97,7 @@ body {
   opacity: 0.6;
 }
 :where(.game-modal, .keyboard) button:hover {
-  background: #8286c9;
+  background: #39edda;
 }
 
 .game-modal {
@@ -126,7 +126,7 @@ body {
   max-width: 420px;
   width: 100%;
   border-radius: 10px;
-  background: #fff;
+  background-image: linear-gradient(to left bottom, #1f6e68, #9ac2aa);
   text-align: center;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
@@ -141,7 +141,7 @@ body {
   font-size: 1.53rem;
 }
 .game-modal p b {
-  color: #5E63BA;
+  color: #39edda;
   font-weight: 600;
 }
 .game-modal button {

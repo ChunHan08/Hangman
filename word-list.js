@@ -46,15 +46,15 @@ const wordList = [
       hint: "I don't feel welcome anymore",
     },
     {
-      word: "Change",
+      word: "change",
       hint: "And well sing hulleigyah"
     },
     {
-      word: "Untouchable",
+      word: "untouchable",
       hint: "Its like a million little stars spelling out your name"
     },
     {
-      word: "Superstar",
+      word: "superstar",
       hint: "You smile that beautiful smile"
     },
     {
@@ -67,7 +67,7 @@ const wordList = [
       hint: "You don't know how much I feel, I love you still",
     },
     {
-      word: "Mine",
+      word: "mine",
       hint: "I can see it now"
     },
     {
@@ -190,17 +190,17 @@ const wordList = [
     },
     {
       word: "wildestdreams",
-      hint: "Bur rhis is gonna take me down"
+      hint: "Bur this is gonna take me down"
     },
     {
       word: "thislove",
       hint: "You stand with your hand on my waistline"
     },
-  {
-    word: "newromantics",
-    hint: "The best people in life are free",
-  },
-  
+    {
+      word: "newromantics",
+      hint: "The best people in life are free",
+    },
+    
     {
       word: "clean",
       hint: "ten months sober"
@@ -209,57 +209,57 @@ const wordList = [
       word: "delicate",
       hint: "I pretend your mine all the damn time"
     },
-  {
-    word: "endgame",
-    hint: "I wanna be your first string"
-  },
     {
-      word: "Gorgeous",
+      word: "endgame",
+      hint: "I wanna be your first string"
+    },
+    {
+      word: "gorgeous",
       hint: "Unless you wanna come along?"
     },
     {
       word: "dress",
       hint: "carve you name into my bedpost"
     },
-  {
-    word: "getawaycar",
-    hint: "Think about the place where you first met me"
-  },
-  
     {
-      word: "lover",
-      hint: "Can i go where you go?"
+      word: "getawaycar",
+      hint: "Think about the place where you first met me"
     },
-  {
-    word: "cruelsummer",
-    hint: "killing me slow, out the window"
-  },
-  {
-    word: "theman",
-    hint: "And its all good if you're bad"
-  },
-  {
-    word: "thearcher",
-    hint: "'Cause cruelty wins in the movies"
-  },
+    
+      {
+        word: "lover",
+        hint: "Can i go where you go?"
+      },
     {
-      word: "Afterglow",
-      hint: "Hey, its all me, in my head"
+      word: "cruelsummer",
+      hint: "killing me slow, out the window"
     },
-  {
-    word: "paperrings",
-    hint: "Now I wake up in the night and watch you breathe",
-  },
-  {
-    word: "corneliastreet",
-    hint: "I get drunk, but it's not enough"
-  },
-  {
-    word: "londonboy",
-    hint: "I love my hometown"
-  },
     {
-      word: "Me!",
+      word: "theman",
+      hint: "And its all good if you're bad"
+    },
+    {
+      word: "thearcher",
+      hint: "'Cause cruelty wins in the movies"
+    },
+      {
+        word: "afterglow",
+        hint: "Hey, its all me, in my head"
+      },
+    {
+      word: "paperrings",
+      hint: "Now I wake up in the night and watch you breathe",
+    },
+    {
+      word: "corneliastreet",
+      hint: "I get drunk, but it's not enough"
+    },
+    {
+      word: "londonboy",
+      hint: "I love my hometown"
+    },
+    {
+      word: "me!",
       hint: "Hey kids spellings fun!"
     },
     {
@@ -275,83 +275,83 @@ const wordList = [
       word: "exile",
       hint: "Those eyes add insult to injury"
     },
-  {
-    word: "illicitaffairs",
-    hint: "Ends with meetinfs in parking lots"
-  },
-  {
-    word: "invisiblestring",
-    hint: "Teal was the color of your shirt when you were 16 at the yogurt shop",
-  },
-  {
-    word: "goldrush",
-    hint: "I see me padding across your wooden floors",
-  },
-  {
-    word: "tolerateit",
-    hint: "Tuesdat night at Olive Garden, at her job, or anywhere",
-  },
-  {
-    word: "coneyisland",
-    hint: "Your opal eyes are all I wish to see",
-  },
-  
-  {
-    word: "madwoman",
-    hint: "Now i breathe flames each time I talk",
-  },
-  {
-    word: "thelakes",
-    hint: "I don't belong, and my beloved, neither do you",
-  },
     {
-      word: "mirrorball",
-      hint: "And when I break it's in a million pieces"
+      word: "illicitaffairs",
+      hint: "Ends with meetinfs in parking lots"
     },
-  {
-    word: "lavenderhaze",
-    hint: "Ive neem under scrutiny"
-  },
-  {
-    word: "antihero",
-    hint: "Its me HI"
-  },
-  {
-    word: "midnightrain",
-    hint: "My town was a wasteland"
-  },
-  {
-    word: "vigilanteshit",
-    hint: "draw the cat eye"
-  },
-  {
-    word: "sweetnothing",
-    hint: "This happends all the time"
-  },
-  {
-    word: "highinfidelity",
-    hint: "I didnt know you were keeping track"
-  },
-  {
-    word: "dearreader",
-    hint: "Burn all the files, desrt all your past lives",
-  },
-  {
-    word: "hitsdifferent",
-    hint: "Each bar plays our song"
-  },
-  {
-    word: "downbad",
-    hint: "Show me that this world is bigger than us"
-  },
-  {
-    word: "thealchemy",
-    hint: "The hospital was a drag"
-  },
-  {
-    word: "clarabow",
-    hint: "But i think i mifht die if it happened"
-  }
+    {
+      word: "invisiblestring",
+      hint: "Teal was the color of your shirt when you were 16 at the yogurt shop",
+    },
+    {
+      word: "goldrush",
+      hint: "I see me padding across your wooden floors",
+    },
+    {
+      word: "tolerateit",
+      hint: "Tuesdat night at Olive Garden, at her job, or anywhere",
+    },
+    {
+      word: "coneyisland",
+      hint: "Your opal eyes are all I wish to see",
+    },
+    
+    {
+      word: "madwoman",
+      hint: "Now i breathe flames each time I talk",
+    },
+    {
+      word: "thelakes",
+      hint: "I don't belong, and my beloved, neither do you",
+    },
+      {
+        word: "mirrorball",
+        hint: "And when I break it's in a million pieces"
+      },
+    {
+      word: "lavenderhaze",
+      hint: "Ive neem under scrutiny"
+    },
+    {
+      word: "antihero",
+      hint: "Its me HI"
+    },
+    {
+      word: "midnightrain",
+      hint: "My town was a wasteland"
+    },
+    {
+      word: "vigilanteshit",
+      hint: "draw the cat eye"
+    },
+    {
+      word: "sweetnothing",
+      hint: "This happends all the time"
+    },
+    {
+      word: "highinfidelity",
+      hint: "I didnt know you were keeping track"
+    },
+    {
+      word: "dearreader",
+      hint: "Burn all the files, desrt all your past lives",
+    },
+    {
+      word: "hitsdifferent",
+      hint: "Each bar plays our song"
+    },
+    {
+      word: "downbad",
+      hint: "Show me that this world is bigger than us"
+    },
+    {
+      word: "thealchemy",
+      hint: "The hospital was a drag"
+    },
+    {
+      word: "clarabow",
+      hint: "But i think i mifht die if it happened"
+    },
     {
       word: "peter",
       hint: "My lost fearless leader"
