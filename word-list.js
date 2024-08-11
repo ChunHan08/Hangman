@@ -42,6 +42,10 @@ const wordList = [
       hint: "you had to fight to have the upper hand",
     },
     {
+      word: "foreveralways",
+      hint: "I don't feel welcome anymore",
+    },
+    {
       word: "Change",
       hint: "And well sing hulleigyah"
     },
@@ -54,8 +58,29 @@ const wordList = [
       hint: "You smile that beautiful smile"
     },
     {
+      word: "thatswhen",
+      hint: "Laughing, when I'm crying"
+    
+    },
+    {
+      word: "dontyou",
+      hint: "You don't know how much I feel, I love you still",
+    },
+    {
       word: "Mine",
       hint: "I can see it now"
+    },
+    {
+      word: "sparksfly",
+      hint: "Kiss me on the sidewalk, take away the pain"
+    },
+    {
+      word: "speaknow",
+      hint: "I sneak in and see your friends",
+    },
+    {
+      word: "dearjohn",
+      hint: "And my mother accused me of losing my mind"
     },
     {
       word: "mean",
@@ -65,6 +90,39 @@ const wordList = [
       word: "enchanted",
       hint: "This was the very first page"
     },
+    {
+      word: "innocent",
+      hint: "Lost your mind tryin' to get it back"
+    },
+    {
+      word: "haunted",
+      hint: "Can't breathe whenever you're gone",
+    },
+    {
+      word: "lastkiss",
+      hint: "Lit through the darkness at 1:58"
+    },
+    {
+      word: "longlive",
+      hint: "And they read off our names"
+    },
+    {
+      word: "electrictouch",
+      hint: "Could fill this ghost town up with life"
+    },
+    {
+      word: "castlescumbling",
+      hint: "Crowds would hang on my words, and they trusted me"
+    },
+    {
+      word: "foolishone",
+      hint: "Over coffe every mourning while your're watching the news",
+    },
+    {
+      word: "holyground",
+      hint: "spinning like a girl in a brand new dress"
+    },
+    
     {
       word: "ours",
       hint: "But this love is "
@@ -85,6 +143,23 @@ const wordList = [
       word: "treacherous",
       hint: "this slope is reckless"
     },
+    
+    {
+      word: "starlight",
+      hint: "You'll spen the whole life singing the blues",
+    },
+    {
+      word: "beginagain",
+      hint: "Turned the lock and put my headphone on",
+    },
+    {
+      word: "betterman",
+      hint: "Sometimes, in the middle of the night, I can feel you again",
+    },
+    {
+      word: "nothingnew",
+      hint: "And my cheeks are growing red"
+    },
     {
       word: "ronan",
       hint: "you were my best four years"
@@ -94,12 +169,32 @@ const wordList = [
       hint: "Im here on the kitchen floor"
     },
     {
+      word: "foreverwinter",
+      hint: "He spends most of his nights wishing it was how it used to be"
+    },
+    {
       word: "run",
       hint: "I'll wait for you"
     },
     {
+      word: "blankspace",
+      hint: "Saw you there and I thought",
+    },
+    {
       word: "style",
       hint: "Takes me home"
+    },
+    {
+      word: "badblood",
+      hint: "I was thinking you could be trusted"
+    },
+    {
+      word: "wildestdreams",
+      hint: "Bur rhis is gonna take me down"
+    },
+    {
+      word: "thislove",
+      hint: "You stand with your hand on my waistline"
     },
     {
       word: "clean",

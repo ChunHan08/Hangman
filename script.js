@@ -38,16 +38,16 @@ const initGame = (button, clickedLetter) => {
       if(letter === clickedLetter) {
         correctLetters.push(letter);
         wordDisplay.querySelectorAll("li")[index].innerText = letter;
-        wordDisplat.querySelectorAll("li")[index].classList.add("guessed");
+        wordDisplay.querySelectorAll("li")[index].classList.add("guessed");
       }
     });
   } else {
-    WrongGuessCount++;
-    hangmanImage.src = `images/hangman-${WrongGuessCount}.svg`;
+    wrongGuessCount++;
+    hangmanImage.src = `images/hangman-${wrongGuessCount}.svg`;
   }
   button.disbaled = true;
-  guessesText.innerText = `${WrongGuessCount} / ${maxGuesses}`;
-  if(WrongGuessCount === maxGuesses) return gameOver(false);
+  guessesText.innerText = `${wrongGuessCount} / ${maxGuesses}`;
+  if(wrongGuessCount === maxGuesses) return gameOver(false);
   if(correctLetters.length === currentWord.length) return gameOver(true);
 }
 for (let i = 97; i <= 122; i++) {
